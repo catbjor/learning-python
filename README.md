@@ -2,9 +2,9 @@
 
 Welcome to <b>Learning Python!</b> 
 
-<i>When I started learning Python, I wanted to create sort of a study guide for myself. But then I thought that maybe there were somebody else out there, that could make use of it as well!</>
+<i>When I started learning Python, I wanted to create sort of a study guide for myself. but then I thought that maybe there were somebody else out there, that could make use of it as well!</>
 
-This repository is a structured and organized collection of Jupyter Notebooks designed to help you <b>learn Python</b> from the ground up. Whether you're a <b>beginner</b> or looking to <b>advance your skills</b>, this repo has everything you need.  
+This repository is a structured and organized collection of Jupyter Notebooks designed to help you <b>learn Python</b> from the ground up. Whether you're a <b>beginner</b> or looking to <b>advance your skills</b>, this repo has everything you need. 
 
 ---
 
@@ -31,11 +31,28 @@ I have divided this repo into different categories, to make it easy to follow:
 11. `Classes` – Object-oriented programming  
 12. `Exceptions` – Handling errors  
 13. `Modules and Imports` – Reusing code efficiently  
-14. `Popular Libraries` – NumPy, Pandas, Matplotlib, Seaborn  
-
 
 ---
 
-## 🚀 **How to Use This Repository**  
+## **How to Use This Repository**  
 
-1. **Clone the repository**  
+1. **Clone the repository**
+
+2. **Open Jupyter Notebook**
+
+3. **Start exploring!**
+
+## **Who is this for?**
+
+- **Beginners** who are just starting out. This repo provides a structured learning, and every file is numbered, so you'll know in which order you should learn the different things.
+- **Intermediate Learners** - Maybe you already know some Python, but want to rrefresh your memory, or level up!
+- **Self-Learners & Developers**
+
+
+## **Contributions & Feedback**
+This repo is a **work in progress** and will be **continuously updated**! If you find any issues or have suggestions, feel free to **open an issue** or **submit a pull request**. 
+
+## **Resources & References**  
+- [Python Official Documentation](https://docs.python.org/3/)  
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/)  
+- [Real Python](https://realpython.com/)  
