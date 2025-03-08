@@ -45,7 +45,7 @@ I have divided this repo into different categories, to make it easy to follow:
 ## **Who is this for?**
 
 - **Beginners** who are just starting out. This repo provides a structured learning, and every file is numbered, so you'll know in which order you should learn the different things.
-- **Intermediate Learners** - Maybe you already know some Python, but want to rrefresh your memory, or level up!
+- **Intermediate Learners** - Maybe you already know some Python, but want to refresh your memory, or level up!
 - **Self-Learners & Developers**
 
 
