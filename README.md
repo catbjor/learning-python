@@ -2,7 +2,7 @@
 
 Welcome to <b>Learning Python!</b> 
 
-<i>When I started learning Python, I wanted to create sort of a study guide for myself. but then I thought that maybe there were somebody else out there, that could make use of it as well!</>
+<i>When I started learning Python, I wanted to create sort of a study guide for myself. but then I thought that maybe there were somebody else out there, that could make use of it as well!</i>
 
 This repository is a structured and organized collection of Jupyter Notebooks designed to help you <b>learn Python</b> from the ground up. Whether you're a <b>beginner</b> or looking to <b>advance your skills</b>, this repo has everything you need. 
 
